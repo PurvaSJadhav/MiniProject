@@ -1,0 +1,1 @@
+In this project i have created a resposive website by only using pure css and html. i have not used any javascript to make it responsive. here we made photography website having different features and effects.
